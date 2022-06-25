@@ -10,6 +10,7 @@ ER Diagram :
 
 
 General Activities:
+
 <img width="171" alt="Screen Shot 1443-11-26 at 1 47 13 PM" src="https://user-images.githubusercontent.com/79336646/175770290-0f72f291-0fe6-410c-bf3f-19cb48484204.png">
 
 <img width="176" alt="Screen Shot 1443-11-26 at 1 47 23 PM" src="https://user-images.githubusercontent.com/79336646/175770294-4441cd45-1849-4200-92c5-d01d629e901f.png">
