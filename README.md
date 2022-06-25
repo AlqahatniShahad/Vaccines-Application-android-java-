@@ -1,9 +1,6 @@
 # Vaccines-Application-android-java-
 
 
-The Vaccines app collects many different types of vaccines and then displays them to the patient in a clear and simple way so that they can choose which type of vaccines they prefer.
-
-
 ER Diagram :
 
 <img width="600" alt="Screen Shot 1443-11-26 at 1 46 07 PM" src="https://user-images.githubusercontent.com/79336646/175770251-cf5cbef2-5766-4ecf-a3c1-74a1ac45c83d.png">
